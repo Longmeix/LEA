@@ -1,0 +1,59 @@
+58
+efrbroo/r19 created a realisation of	0
+type	1
+efrbroo/r51 assigned	2
+ontology#u12 has genre	3
+efrbroo/r50 assigned to	4
+efrbroo/r9 is realised in	5
+ontology#u4 had princeps publication	6
+efrbroo/r25 performed	7
+efrbroo/r44 carried out by	8
+efrbroo/r17 created	9
+efrbroo/r10 has member	10
+ontology#u13 has casting	11
+ontology#u11 has key	12
+efrbroo/r40 has representative expression	13
+ontology#u5 had premiere	14
+current/p165 incorporates	15
+efrbroo/r3 is realised in	16
+current/p3 has note	17
+efrbroo/r24 created	18
+current/p165 incorporates	19
+ontology#u13 has casting	20
+efrbroo/r9 is realised in	21
+ontology#u5 had premiere	22
+efrbroo/r19 created a realisation of	23
+efrbroo/r17 created	24
+type	25
+efrbroo/r10 has member	26
+ontology#u12 has genre	27
+efrbroo/r44 carried out by	28
+efrbroo/r50 assigned to	29
+efrbroo/r51 assigned	30
+efrbroo/r40 has representative expression	31
+efrbroo/r25 performed	32
+efrbroo/r24 created	33
+current/p67 refers to	34
+efrbroo/r3 is realised in	35
+ontology#u4 had princeps publication	36
+ontology#u11 has key	37
+current/p3 has note	38
+same_rel_39	39
+same_rel_40	40
+same_rel_41	41
+same_rel_42	42
+same_rel_43	43
+same_rel_44	44
+same_rel_45	45
+same_rel_46	46
+same_rel_47	47
+same_rel_48	48
+same_rel_49	49
+same_rel_50	50
+same_rel_51	51
+same_rel_52	52
+same_rel_53	53
+same_rel_54	54
+same_rel_55	55
+same_rel_56	56
+same_rel_57	57
